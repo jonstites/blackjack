@@ -8,7 +8,7 @@ config = {
     'author': 'Jonathan Stites',
     'author_email': 'contact@jonstites.com.',
     'version': '0.1',
-    'install_requires': ['nose'],
+    'install_requires': ['pytest'],
     'packages': [],
     'scripts': [],
     'name': 'blackjack'
