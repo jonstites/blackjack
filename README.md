@@ -2,6 +2,7 @@
 A dumb little blackjack game.
 
 To run, do:
-```pip3 install .
+```python3
+pip3 install .
 play_blackjack.py
 ```
